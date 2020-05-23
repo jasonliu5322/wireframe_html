@@ -12,19 +12,20 @@ body{
     background-color: #ffffff;}*/
 header{
     height:160px;
-    background-color: #66cdaa;}
+    background-color: inherit;}
 h1{
     color:rgb(100, 0, 65);
+    background-color: #66cdaa;
     font-size:xx-large;
     text-align: center;
-    height: 50px;
+    height: 110px;
     padding: inherit;}
 nav{
     clear: both;
     color: #ffffff;
     background-color: #aeaca8;
     margin-right: 40px;
-    height: 30px;}
+    height: 40px;}
 p{
     padding:10px;
     margin:5px;
@@ -47,9 +48,9 @@ p.third{
 aside{
     background-color: rgba(200, 33, 117, 0.8);
     padding: 5px;
-    width: 300px;
+    width: 200px;
     height: 450px;
     position: absolute;
-    top:230px;
-    left:1200px;
+    top:220px;
+    left:1150px;
 }
