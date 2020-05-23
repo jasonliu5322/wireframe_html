@@ -18,13 +18,12 @@ h1{
     background-color: #66cdaa;
     font-size:xx-large;
     text-align: center;
-    height: 110px;
+    height: 100px;
     padding: inherit;}
 nav{
-    clear: both;
     color: #ffffff;
     background-color: #aeaca8;
-    margin-right: 40px;
+    margin-bottom: 10px;
     height: 40px;}
 p{
     padding:10px;
@@ -52,5 +51,5 @@ aside{
     height: 450px;
     position: absolute;
     top:220px;
-    left:1150px;
+    left:1175px;
 }
