@@ -11,13 +11,16 @@ header{
 h1{
     
     color:rgb(100, 0, 65);
-    font-size: large;
+    font-size:xx-large;
     text-align: center;
+    width: 940px;
+    height: 130px;
     padding: inherit;}
 nav{
     clear: both;
     color: #ffffff;
     background-color: #aeaca8;
+    margin-right: 40px;
     height: 30px;}
 p{
     padding:10px;
