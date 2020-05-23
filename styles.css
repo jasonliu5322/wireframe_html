@@ -2,13 +2,18 @@ body{
     background-color: papayawhip;
     color: blue;
     padding: 20px;
-    border: 1px;
     font-family: fantasy;}
 h1{
     background-color: #66cdaa;
     color:rgb(100, 0, 65);
-    padding: inherit;
-    border: 1px;}
+    font-size: large;
+    text-align: center;
+    padding: inherit;}
+nav{
+    clear: both;
+    color: #ffffff;
+    background-color: #aeaca8;
+    height: 30px;}
 p{
     padding:10px;
     margin:5px;}
@@ -25,7 +30,9 @@ p.second{
 p.third{
     background-color: inherit;
 }
-.aside{
+aside{
     background-color: rgba(200, 33, 117, 0.8);
     padding: 5px;
+    width: 230px;
+    float: left;
 }
