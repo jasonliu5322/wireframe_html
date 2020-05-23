@@ -23,14 +23,14 @@ h1{
 nav{
     color: #ffffff;
     background-color: #aeaca8;
-    margin-bottom: 10px;
-    height: 40px;}
+    margin-bottom: 20px;
+    height: 60px;}
 p{
     padding:10px;
     margin:5px;
     display:block;
     width:1100px;
-    height:120px;}
+    height:140px;}
 p.first{
     background-color: hlsa(330, 100%, 100%, 0.5);
     background-color: rgb(86, 203, 19);
