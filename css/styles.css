@@ -12,7 +12,7 @@ body{
     background-color: #ffffff;}*/
 header{
     height:160px;
-    margin: 20px;
+    margin-bottom: 30px;
     background-color: inherit;}
 h1{
     color:rgb(100, 0, 65);
@@ -23,14 +23,13 @@ h1{
 nav{
     color: #ffffff;
     background-color: #aeaca8;
-    margin: 20px;
     height: 40px;}
 p{
     padding:10px;
     margin:5px;
     display:block;
     width:1100px;
-    height:160px;}
+    height:125px;}
 p.first{
     background-color: hlsa(330, 100%, 100%, 0.5);
     background-color: rgb(86, 203, 19);
@@ -48,8 +47,8 @@ aside{
     background-color: rgba(200, 33, 117, 0.8);
     padding: 5px;
     width: 200px;
-    height: 450px;
+    height: 438px;
     position: absolute;
-    top:220px;
+    top:235px;
     left:1176px;
 }
