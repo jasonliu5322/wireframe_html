@@ -17,7 +17,6 @@ h1{
     color:rgb(100, 0, 65);
     font-size:xx-large;
     text-align: center;
-    width: 940px;
     height: 80px;
     padding: inherit;}
 nav{
@@ -48,7 +47,8 @@ p.third{
 aside{
     background-color: rgba(200, 33, 117, 0.8);
     padding: 5px;
-    width: 230px;
-    height: 500px;
+    width: 300px;
+    height: 450px;
     position: absolute;
+    left:850px;
 }
