@@ -1,4 +1,4 @@
-header, section, aside, nav, article{
+header, section, h1, main, p, aside, nav, article{
     display: block;}
 body{
     background-color: papayawhip;
