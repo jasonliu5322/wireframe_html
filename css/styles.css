@@ -17,9 +17,9 @@ h1{
     
     color:rgb(100, 0, 65);
     font-size:xx-large;
-    text-align: left;
+    text-align: middle;
     width: 940px;
-    height: 130px;
+    height: 110px;
     padding: inherit;}
 nav{
     clear: both;
@@ -29,7 +29,10 @@ nav{
     height: 30px;}
 p{
     padding:10px;
-    margin:5px;}
+    margin:5px;
+    display:block;
+    width:500px;
+    height:230px;}
 p.first{
     background-color: hlsa(330, 100%, 100%, 0.5);
     background-color: rgb(86, 203, 19);
