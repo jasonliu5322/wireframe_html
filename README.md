@@ -1,3 +1,3 @@
 # My First Page
 
-![Click Here](https://jasonliu5322.github.io/wireframe_html/.)
+## [Click Here](https://jasonliu5322.github.io/wireframe_html/.)
