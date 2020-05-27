@@ -7,24 +7,25 @@
     <link href = "css/styles.css" type = "text/css" rel = "stylesheet" />
 </head>
 <body>
-  <div class = "wrapper">
+  <div>
     <header>
-        <h1>My First CSS Page</h1>
+        <h1>My First Page</h1>
         <nav>
-            <a herf = "">student</a>
-            <a herf = "">teacher</a>
-            <a herf = "">department</a>
+            <a href = "https://cdn.pixabay.com/photo/2013/07/13/12/43/boy-160168_960_720.png">student</a>
+            <a href = "https://cdn.pixabay.com/photo/2019/05/12/14/28/classroom-4198222_960_720.jpg">teacher</a>
+            <a href = "https://cdn.pixabay.com/photo/2016/10/07/05/28/campus-1720796_960_720.jpg">campus</a>
+           
         </nav>
     </header>
     <main> 
-        <aside>This is an aside.</aside>
         <section>
             <article>
-                <p class = "first">This is first paragraph.</p>
-                <p class = "second">This is second paragraph.</p>
-                <p class = "third">This is third paragraph.</p>
+                <p id = "first">Do you want this page say hello to you?  <button onclick="myFunction1()">Input your name here</button></p>
+                <p id = "second">which one do you want to select? <button onclick="myFunction2()">Do your selection</button></p>
+                <p id = "third" onclick="changeColor()">You can pick the color you like best for this section.<input name="MyColorPicker"type="color"id="MyColorPicker" /> </p>
             </article>
         </section>  
+      <aside>This is an aside.<script src = "js/javascript.js"></script></aside>
     </main>
    </div>    
 </body>
