@@ -39,11 +39,11 @@ p{
     font-style: italic;
     opacity: 0.5;
 }
-p.second{
+#second{
     background-color: hsl(180, 50%, 60%);
     font-size: larger;
 }
-p.third{
+#third{
     background-color: rgba(200, 55, 33, 0.8);
 }
 aside{
